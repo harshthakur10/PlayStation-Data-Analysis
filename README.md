@@ -1,5 +1,8 @@
 # EDA Operations on Playstation Data
 
+![360_F_346674436_YxxiIqRrPij0u5mcVhZGK1hOf3hRQm2o](https://github.com/user-attachments/assets/31e2f04d-0264-4f1b-872a-572f589fda6e)
+
+
 *This repository contains Python code for analyzing PlayStation video game sales data. We utilize various libraries such as Pandas, NumPy, Seaborn, and Matplotlib to perform data manipulation, visualization, and analysis.* 
 
 ## Introduction
